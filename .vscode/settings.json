@@ -1,0 +1,13 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "bank",
+            "dialect": "PostgreSQL",
+            "name": "bank",
+            "password": "olya",
+            "port": 5432,
+            "server": "localhost",
+            "username": "olya"
+        }
+    ]
+}
